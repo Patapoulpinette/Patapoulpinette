@@ -1,3 +1,3 @@
-- 👋  Hi, I’m @Patapoulpinette
+- 👋  Hi, I’m Delphine
 - 🌱  I’m currently learning C/C++ language in 42_Lyon
 - 📫  Here is my saving projects place
